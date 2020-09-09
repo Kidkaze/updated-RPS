@@ -1,0 +1,12 @@
+html {
+  background-color: aliceblue;
+}
+
+body {
+  display: grid;
+  justify-items: center;
+}
+
+#container {
+  position: ;
+}
